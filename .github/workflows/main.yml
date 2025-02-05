@@ -1,2 +1,0 @@
-- name: Jenkinsfile Runner Prepackaged
-    uses: jenkinsci/jenkinsfile-runner-github-actions@v0.2

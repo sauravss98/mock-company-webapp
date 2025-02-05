@@ -21,7 +21,7 @@ public class SearchService {
     }
 
     public Collection<ProductItem> search(String query) {
-        return Collections.emptyList(); // This will break the tests
+        return Collections.emptyList(); // This will break the test
     }
 
 
